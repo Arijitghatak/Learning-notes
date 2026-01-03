@@ -22,7 +22,7 @@ The complete handwritten notes are available as a PDF on Google Drive:
 
 
 
-👉 https://drive.google.com/drive/folders/12hfND0vDfLS2\_cTF6BgVLW3QOlNqF9bF?usp=drive\_link
+👉 https://drive.google.com/file/d/1CzTJPbPrF3Ei8IIPIXFrrjmmG3Be2ls9/view?usp=sharing
 
 
 
