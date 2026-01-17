@@ -8,6 +8,6 @@ Every subject folder contains a README explaining the scope and a link to extern
 ## Subjects
 
 - Git & GitHub → `git-github/`
-- Java → 'Java/'
+- Java → Java/
 - DSA → planned
 - Backend → planned
