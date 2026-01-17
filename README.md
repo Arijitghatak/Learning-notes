@@ -7,7 +7,7 @@ Every subject folder contains a README explaining the scope and a link to extern
 
 ## Subjects
 
-- Git & GitHub → `git-github/`
-- Java → Java/
+- Git & GitHub → Basic uploaded
+- Java → Basic uploaded
 - DSA → planned
 - Backend → planned
