@@ -22,8 +22,13 @@ The complete handwritten notes are available as a PDF on Google Drive:
 
 
 
+<<<<<<< HEAD
 👉 \*\*\[Download Git \& GitHub Initial Notes (PDF)](<https://drive.google.com/drive/folders/12hfND0vDfLS2\_cTF6BgVLW3QOlNqF9bF?usp=drive\_link>)\*\*
 
+=======
+👉 \*\*\[Download Git \& GitHub Initial Notes (PDF)]
+https://drive.google.com/file/d/1CzTJPbPrF3Ei8IIPIXFrrjmmG3Be2ls9/view?usp=drive_link
+>>>>>>> b777d4008714f369830d413e4123ca6f6710646c
 
 
 ---
