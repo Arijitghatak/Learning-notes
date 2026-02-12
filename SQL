@@ -1,0 +1,14 @@
+# SQL Notes & Practice
+
+This repository contains my structured SQL notes and problem-solving practice focused on backend development and interview preparation.
+
+## Topics Covered
+- SELECT, WHERE, ORDER BY
+- Aggregations (COUNT, SUM, AVG, MAX, MIN)
+- GROUP BY & HAVING
+- Joins (INNER, LEFT, SELF JOIN)
+- Subqueries & Correlated Queries
+- LeetCode SQL Problems
+
+## Goal
+To build strong relational database reasoning skills for backend development (Spring Boot + MySQL).
